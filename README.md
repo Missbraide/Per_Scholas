@@ -1,7 +1,8 @@
-# per_Scholas
+# Per_Scholas
 
 Can I make some change if I don't have $$$?
 
+<<<<<<< HEAD
 |'-.--._ _________:
      |  /    |  __    __\
      | |  _  | [\_\= [\_\
@@ -26,3 +27,6 @@ Can I make some change if I don't have $$$?
      _/_\_            [ -'-.__
 snd <]   \>            \_____.>
       \__/
+=======
+I have change. - Cady
+>>>>>>> 7050a1d7249a1aa51a3c037e4665f6fc189c4b20
